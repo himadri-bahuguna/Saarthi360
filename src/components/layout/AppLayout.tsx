@@ -64,8 +64,8 @@ export function AppLayout({ children }: AppLayoutProps) {
         {/* Logo */}
         <div className="flex items-center justify-between px-4 py-4 border-b border-white/10 flex-shrink-0">
           <div>
-            <p className="text-white font-bold text-sm leading-tight">AICTE</p>
-            <p className="text-blue-200 text-xs">Workflow Management</p>
+            <p className="text-white font-bold text-sm leading-tight">Saarthi360</p>
+            <p className="text-blue-200 text-xs">AICTE Workflow Management</p>
           </div>
           <button
             className="lg:hidden text-white/70 hover:text-white"
